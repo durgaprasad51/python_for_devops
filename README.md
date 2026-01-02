@@ -4,10 +4,10 @@
 
 ## Topics
 
-### Python DataType (LIST, SET, DECT)
-### Data Structure
-### Variable & Constants
-### Python Operators
-### Virtual Environment
-### Type Casting
-### API
+### $ Python DataType (LIST, SET, DECT)
+### $ Data Structure
+### $ Variable & Constants
+### $ Python Operators
+### $ Virtual Environment
+### $ Type Casting
+### $ API
