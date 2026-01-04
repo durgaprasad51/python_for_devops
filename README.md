@@ -1,13 +1,13 @@
 # *Devops_For_Python*
+### Python Intro ->
+### => Python Operators
+### => Variable & Constants
 
-## Learn Python Scripting for DevOps
-
-## Topics
+    > Variables can store data of different types, and different types can do different things.
 
 ### => Python DataType (LIST, SET, DECT)
-
-  > Variables can store data of different types, and different types can do different things.
-  >  Python has the following data types built-in by default, in these categories:
+  
+  ->  Python has the following data types built-in by default, in these categories:
 
       Text Type:	str
       Numeric Types:	int, float, complex
@@ -20,8 +20,8 @@
 
 
 ### => Data Structure
-### => Variable & Constants
-### => Python Operators
 ### => Virtual Environment
 ### => Type Casting
-### => API
+### => API, JSON
+### __main__
+### Packages
